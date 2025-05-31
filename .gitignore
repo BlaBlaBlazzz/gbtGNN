@@ -1,0 +1,6 @@
+
+catboost_info/
+datasets/
+results/
+*egg*
+*pycache*
